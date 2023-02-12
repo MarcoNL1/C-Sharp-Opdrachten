@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("What is the amount to pay?");
-var payAmount = Convert.ToInt32(Console.ReadLine());
+var amountToPay = Console.ReadLine();
+var payAmount = Convert.ToInt32(amountToPay);
 
 while (payAmount > 0)
 {
@@ -24,5 +25,31 @@ while (payAmount > 0)
             continue;
         default:
             continue;
+    }
+}
+
+while (true)
+{
+    if (payAmount == 0)
+    {
+        Console.WriteLine($"You have paid {amountToPay}");
+        break;
+    }
+    
+    if (payAmount < 0)
+    {
+            Console.WriteLine($"You paid {payAmount * -1} too much. Give a tip? y/n");
+            var tip = Console.ReadLine().ToLower();
+            
+            if (tip == "y")
+            {
+                Console.WriteLine($"You have paid {Convert.ToInt32(amountToPay) + payAmount * -1}");
+                break;
+            }
+            if (tip == "n")
+            {
+                Console.WriteLine($"You have paid {amountToPay}");
+                break;
+            }
     }
 }

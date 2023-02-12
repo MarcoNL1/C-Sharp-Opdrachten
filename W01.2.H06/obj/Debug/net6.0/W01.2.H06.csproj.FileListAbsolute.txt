@@ -1,0 +1,15 @@
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\bin\Debug\net6.0\W01.2.H06.exe
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\bin\Debug\net6.0\W01.2.H06.deps.json
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\bin\Debug\net6.0\W01.2.H06.runtimeconfig.json
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\bin\Debug\net6.0\W01.2.H06.dll
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\bin\Debug\net6.0\W01.2.H06.pdb
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.csproj.AssemblyReference.cache
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.AssemblyInfoInputs.cache
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.AssemblyInfo.cs
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.csproj.CoreCompileInputs.cache
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.dll
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\refint\W01.2.H06.dll
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.pdb
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\W01.2.H06.genruntimeconfig.cache
+C:\Users\Marco\RiderProjects\C-Sharp-Opdrachten\W01.2.H06\obj\Debug\net6.0\ref\W01.2.H06.dll
