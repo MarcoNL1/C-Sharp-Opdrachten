@@ -1,0 +1,13 @@
+﻿public class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine(Pow2(5));
+    }
+
+    public static int Pow2(int number)
+    {
+        int square = number * number;
+        return square;
+    }
+}
