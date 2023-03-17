@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVoLQ4Wjb8+XlNRxzHqXbqJCvbOwjkE5IcwRumrWAzknMoI1Tz9qJ+D3aClmhngg084CfZdgvs5lU58a2wnmFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W04.1.C04\\W04.1.C04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
