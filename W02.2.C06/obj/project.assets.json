@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marco\\.nuget\\packages\\": {}
+    "C:\\Users\\Marco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.2.C06\\W02.2.C06.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.2.C06\\W02.2.C06.csproj",
       "projectName": "W02.2.C06",
-      "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.2.C06\\W02.2.C06.csproj",
-      "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.2.C06\\obj\\",
+      "projectPath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.2.C06\\W02.2.C06.csproj",
+      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.2.C06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

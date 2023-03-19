@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.1.C07\\W02.1.C07.csproj": {}
+    "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.1.C07\\W02.1.C07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.1.C07\\W02.1.C07.csproj": {
+    "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.1.C07\\W02.1.C07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.1.C07\\W02.1.C07.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.1.C07\\W02.1.C07.csproj",
         "projectName": "W02.1.C07",
-        "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.1.C07\\W02.1.C07.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W02.1.C07\\obj\\",
+        "projectPath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.1.C07\\W02.1.C07.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W02.1.C07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
