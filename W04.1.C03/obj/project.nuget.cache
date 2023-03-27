@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8/MPp/fJxsXi3WU/sE6adFeBtf6GF7AmpvOo0+1s/Q8ULUWUYPY3aeq8yvnXv0pHMaoDNSsYvZkQ/ugoAaUdvw==",
+  "dgSpecHash": "mIyhKZ5hvxTkJP47sH4hqKKwnC6oGLbfaF9X2yqP96DGy1tr4p1+EqLW7YKQ1RGE8mjo9ykAhyEpsOtJABjYkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W04.1.C03\\W04.1.C03.csproj",
+  "projectFilePath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W04.1.C03\\W04.1.C03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

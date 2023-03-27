@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.1.H01\\W01.1.H01.csproj": {}
+    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.1.H01\\W01.1.H01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.1.H01\\W01.1.H01.csproj": {
+    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.1.H01\\W01.1.H01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.1.H01\\W01.1.H01.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.1.H01\\W01.1.H01.csproj",
         "projectName": "W01.1.H01",
-        "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.1.H01\\W01.1.H01.csproj",
+        "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.1.H01\\W01.1.H01.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.1.H01\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.1.H01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"

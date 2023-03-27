@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.2.C09\\W01.2.C09.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.2.C09\\W01.2.C09.csproj",
       "projectName": "W01.2.C09",
-      "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.2.C09\\W01.2.C09.csproj",
+      "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.2.C09\\W01.2.C09.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\School Opdrachten C-sharp\\W01.2.C09\\obj\\",
+      "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W01.2.C09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
