@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj": {}
+    "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj": {
+    "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj",
         "projectName": "Oefen Examen",
-        "projectPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\Oefen Examen\\obj\\",
+        "projectPath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\Oefen Examen\\Oefen Examen.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\Oefen Examen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

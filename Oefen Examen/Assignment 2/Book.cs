@@ -7,6 +7,10 @@
         Title = title;
         Author = author;
         Language = language;
+    }
+
+    public Book(string title, string author)
+    {
         Title = title;
         Author = author;
         Language = "EN";
