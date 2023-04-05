@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gN8kogVcjlj8IIQW9TGSROmnfv7gkRxlvxz828Ob2UnF8KPyIiNOSpuZoUy+F88Lgg4HRt2V1Tp90m7OjaNCwA==",
+  "dgSpecHash": "2/mSq66CtVU8owoe8I/cb/Wdf2ScblurRK3XgCA7ZOYCxe68rEnXT3Pva6s+IDlp7AzF2BvBy4ewV2AAfHFt7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\Desktop\\Opdrachten C#\\C-Sharp-Opdrachten\\W04.1.C06\\W04.1.C06.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\RiderProjects\\C-Sharp-Opdrachten\\W04.1.C06\\W04.1.C06.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marco\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Marco\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
